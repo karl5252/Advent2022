@@ -2575,5 +2575,5 @@ print('\n\nPART 2\n')
 #while normally I would redo the code above...
 print("""Actually mine input  X means you need to lose,\n Y means you need to end the round in a draw,\n and Z means you need to win\n""")
 
-print(f'Points obtained via 2nd strategy guide: {part2_points}')
+print(f'Points obtained via 2nd strategy guide: {part2_points} .')
 
